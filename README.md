@@ -5,7 +5,7 @@ Bu proje, bir <i>“Güncel Döviz Kurları Web Uygulaması”</i>dır. <strong>
 
 Kullanıcı <i>select</i> listesinden bir döviz kuru seçtiğinde ekranın sağ tarafında ilgili kura ait bilgiler görüntüleniyor. Kullanıcı eğer isterse, yine ekranın sağında yer alan bir buton sayesinde döviz kurlarını yenileyebiliyor.
 
-##Projenin Çalıştırılması
+## Projenin Çalıştırılması
 Projeyi çalıştırmak için, projenin bulunduğu kök dizininde bir komut ekranı açmamız ve node ProjeAdi.js yazmamız gerekiyor. Ardından komut ekranında bize gösterilen port adresini web tarayıcımıza yazarak uygulamayı kullanabiliriz. Bu proje için çalıştırma komutu aşağıdaki gibidir:
 
 ![](https://github.com/shrgrl/guncelDovizKurlari/blob/master/img2.JPG)
